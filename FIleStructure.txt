@@ -1,0 +1,18 @@
+my-app/
+  README.md
+  node_modules/
+  package.json
+  public/
+    index.html
+    favicon.ico
+  src/
+    index.js
+    App.js
+    index.css
+    components/
+      Header.js
+      Footer.js
+      NewsletterModal.js
+    utils/
+      api.js
+      helpers.js
